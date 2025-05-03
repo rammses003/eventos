@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Eventos_1" tvg-logo="https://i.postimg.cc/yWqZT1c5/trigo-sports.png",Eventos 1
+#EXTINF:-1 tvg-id="Eventos1" tvg-logo="https://i.postimg.cc/yWqZT1c5/trigo-sports.png" group-title="News" tvg-name="Eventos 1",Eventos 1
 https://sam-py-edge03.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
-#EXTINF:-1 tvg-id="Eventos_2" tvg-logo="https://i.postimg.cc/dtH1vthK/trigo-sports-mas.png",Eventos +
+#EXTINF:-1 tvg-id="Eventos2" tvg-logo="https://i.postimg.cc/dtH1vthK/trigo-sports-mas.png" group-title="News" tvg-name="Eventos +",Eventos +
 https://sam-py-edge03.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
-#EXTINF:-1 tvg-id="Eventos_3" tvg-logo="https://i.postimg.cc/1zc1mJvN/trigo-sports-3.png",Eventos 3
+#EXTINF:-1 tvg-id="Eventos3" tvg-logo="https://i.postimg.cc/1zc1mJvN/trigo-sports-3.png" group-title="News" tvg-name="Eventos 3",Eventos 3
 https://sam-py-edge03.tigo.com.py/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
